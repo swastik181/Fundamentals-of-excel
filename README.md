@@ -5,9 +5,6 @@ A collection of Excel assignments covering fundamental to intermediate spreadshe
 
 ### 📊 Assignment 1: Excel Fundamentals
 
-
-**File:** "C:\Users\Ali Abbas\OneDrive\เอกสาร\Assignment1.xlsx"
-
 This assignment focuses on Excel basics and cell references.
 
 **Topics covered:**
